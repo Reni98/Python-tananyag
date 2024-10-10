@@ -1,0 +1,40 @@
+1,The Shawshank Redemption,1994,9.3
+2,The Godfather,1972,9.2
+3,The Dark Knight,2008,9.0
+4,The Godfather: Part II,1974,9.0
+5,12 Angry Men,1957,9.0
+6,Schindler's List,1993,8.9
+7,The Lord of the Rings: The Return of the King,2003,8.9
+8,Pulp Fiction,1994,8.9
+9,The Good, the Bad and the Ugly,1966,8.8
+10,The Lord of the Rings: The Fellowship of the Ring,2001,8.8
+11,Fight Club,1999,8.8
+12,Forrest Gump,1994,8.8
+13,Inception,2010,8.7
+14,The Lord of the Rings: The Two Towers,2002,8.7
+15,Star Wars: Episode V - The Empire Strikes Back,1980,8.7
+16,The Matrix,1999,8.7
+17,Goodfellas,1990,8.7
+18,One Flew Over the Cuckoo's Nest,1975,8.7
+19,Se7en,1995,8.6
+20,Seven Samurai,1954,8.6
+21,The Silence of the Lambs,1991,8.6
+22,City of God,2002,8.6
+23,It's a Wonderful Life,1946,8.6
+24,Life Is Beautiful,1997,8.6
+25,The Usual Suspects,1995,8.5
+26,Leon: The Professional,1994,8.5
+27,Spirited Away,2001,8.5
+28,Saving Private Ryan,1998,8.5
+29,The Green Mile,1999,8.5
+30,Interstellar,2014,8.5
+31,Parasite,2019,8.6
+32,Hamilton,2020,8.4
+33,Gladiator,2000,8.5
+34,Whiplash,2014,8.5
+35,Django Unchained,2012,8.4
+36,The Dark Knight Rises,2012,8.4
+37,The Prestige,2006,8.5
+38,Memento,2000,8.4
+39,Alien,1979,8.4
+40,The Departed,2006,8.5
