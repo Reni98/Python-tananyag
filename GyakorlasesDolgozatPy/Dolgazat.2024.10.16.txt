@@ -4,7 +4,7 @@ amelyek hosszúságának az értéke 5 és ki kell íratni a konzolra melyek eze
 és hány darab van belőlük.
 
 szavak = [
-    "alma", "asztal", "doboz", "ceruza", "egér", "fotel",   # 5 betűs szavak (azonos hosszúságú)
+    "alma", "asztal", "doboz", "ceruza", "egér", "fotel",  
     "szék", "pohár", "táblázat", "könyv", "kulcs", "karkötő",
     "mobiltelefon", "számítógép", "egérpad", "monitor", "hangszóró", "szék",
     "asztalterítő", "függöny", "szőnyeg", "párna", "papucs", "cipőfűző",
