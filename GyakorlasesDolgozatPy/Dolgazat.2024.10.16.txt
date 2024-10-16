@@ -17,4 +17,4 @@ szavak = [
 
 2.Feladat
 Kérj be születési évszámokat és számold ki a kort és azt add a listához. 
-Írd ki a konzolra, hány db év szerepel és melyik a legnagyobb kor a listában.
+Írd ki a konzolra, hány db kor szerepel és melyik a legnagyobb kor a listában.
