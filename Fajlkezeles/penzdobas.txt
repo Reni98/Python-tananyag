@@ -1,0 +1,2 @@
+A tipp & C:/Users/PC/AppData/Local/Programs/Python/Python312/python.exe c:/Users/PC/Desktop/Alapprog/Fajlkezeles/main.py,a dobás eredménye F volt.
+Nem találtad el!A tipp I,a dobás eredménye F volt.Nem találtad el!A tipp F,a dobás eredménye F volt.Eltaláltad!A tipp I,a dobás eredménye I volt.Eltaláltad!
