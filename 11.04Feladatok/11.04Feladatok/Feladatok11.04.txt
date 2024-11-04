@@ -1,0 +1,10 @@
+1.Feladat
+Olvassuk be az atlag.txt fájlt, írjuk ki a lista teljes tartalmát. Számoljuk ki az átlagot,kerekítsük 2 tizedesjegyre.
+Írjuk ki azoknak a neveit és átlagát akiknek K-val kezdődik a nevük.
+
+2.Feladat
+Olvassuk be a diakok.txt listát, írjuk ki a teljes tartalmát, mentsük el txt fájlban külön a telefonszámokat és nézzük meg ki a legfiatalabb.
+
+3.Feladat
+Olvassátok be a listát, majd írjátok ki a konzolra a lista teljes tartalmát. Adjátok meg hány város található a listába és ezt írjátok ki ismétlés nélkül.Adjátok meg melyik a legrégebbi épület,
+írjátok ki a nevét és az évet.

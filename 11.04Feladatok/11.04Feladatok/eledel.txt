@@ -1,0 +1,25 @@
+Royal Canin Adult;4500;Száraz eledel;Kutya
+Whiskas Junior;1500;Száraz eledel;Macska
+Purina One Sterilcat;3200;Száraz eledel;Macska
+Pedigree Puppy;3000;Száraz eledel;Kutya
+Versele-Laga Complete Cuni;2500;Száraz eledel;Nyúl
+Vitakraft Menu Vital;1800;Száraz eledel;Tengerimalac
+Tetra Goldfish Flakes;1200;Haltáp;Aranyhal
+Whiskas Dentabites;900;Jutalomfalat;Macska
+Pedigree Dentastix;1600;Jutalomfalat;Kutya
+Acana Adult Large Breed;8500;Száraz eledel;Kutya
+Hill's Science Plan Kitten;4000;Száraz eledel;Macska
+JR Farm Grainless Mix;2800;Száraz eledel;Nyúl
+Vitakraft Emotion Beauty;1900;Száraz eledel;Tengerimalac
+Sera Vipagran;1400;Haltáp;Trópusi halak
+Orijen Puppy;9500;Száraz eledel;Kutya
+Sheba Fresh & Fine;1000;Nedves eledel;Macska
+Cunipic Naturaliss;2300;Széna;Nyúl
+Versele-Laga Crispy Muesli;1600;Száraz eledel;Tengerimalac
+Eukanuba Adult Small Breed;5000;Száraz eledel;Kutya
+Felix Party Mix;800;Jutalomfalat;Macska
+Trixie Fish Flakes;1100;Haltáp;Trópusi halak
+Applaws Chicken Breast;3500;Nedves eledel;Kutya
+Carnilove Reindeer;6000;Száraz eledel;Kutya
+Whimzees Veggie Sausages;1200;Jutalomfalat;Kutya
+Hikari Cichlid Gold;2000;Haltáp;Sügérek

@@ -1,0 +1,51 @@
+Skin Név;Ritkaság;Ár (V-Bucks);Kategória
+Renegade Raider;Legendás;1200;Karakter
+Black Knight;Ritka;2000;Karakter
+Ghoul Trooper;Epikus;1500;Karakter
+Aerial Assault Trooper;Legendás;1200;Karakter
+The Reaper;Ritka;2000;Karakter
+Purple Skull Trooper;Ritka;1500;Karakter
+Galaxy Skin;Exkluzív;0;Karakter
+Ikonik Skin;Exkluzív;0;Karakter
+Honor Guard;Exkluzív;0;Karakter
+Dark Vertex;Legendás;2000;Karakter
+Wildcat;Exkluzív;0;Karakter
+Double Helix;Exkluzív;0;Karakter
+Hacivat;Epikus;1500;Karakter
+Skull Ranger;Ritka;1200;Karakter
+Tango;Ritka;800;Karakter
+Peely Bone;Epikus;1500;Karakter
+Surf Witch;Ritka;1200;Karakter
+Travis Scott;Exkluzív;1500;Karakter
+Axo;Ritka;1200;Karakter
+Recon Expert;Ritka;1200;Karakter
+Leviathan Axe;Ritka;1000;Tárgy
+Dark Bomber;Epikus;1500;Karakter
+Bright Bomber;Ritka;1200;Karakter
+Fishstick;Ritka;1200;Karakter
+Deadeye;Legendás;2000;Karakter
+Hime;Legendás;2000;Karakter
+Moisty Merman;Legendás;2000;Karakter
+Oblivion;Legendás;2000;Karakter
+Omen;Legendás;2000;Karakter
+Shogun;Legendás;2000;Karakter
+Sky Stalker;Legendás;2000;Karakter
+Tempest;Legendás;2000;Karakter
+Valkyrie;Legendás;2000;Karakter
+Vulture;Epikus;1500;Karakter
+Raptor;Ritka;2000;Karakter
+Ravage;Legendás;2000;Karakter
+Rex;Legendás;2000;Karakter
+Fate;Legendás;2000;Karakter
+Magnus;Legendás;2000;Karakter
+Criterion;Legendás;2000;Karakter
+Chomp Sr.;Legendás;2000;Karakter
+Maverick;Epikus;1500;Karakter
+Shade;Epikus;1500;Karakter
+Fennix;Ritka;1200;Karakter
+Triggerfish;Ritka;1200;Karakter
+Cloaked Shadow;Epikus;1500;Karakter
+Grimbles;Ritka;1200;Karakter
+Snowfoot;Ritka;1500;Karakter
+Infinity;Legendás;2000;Karakter
+

@@ -1,0 +1,28 @@
+Megnevezés;Eladott Darabszám;Ár;Kategória
+Sport póló;150;3500;Sport ruházat
+Kesztyű;200;1200;Kiegészítők
+Sapka;120;2500;Téli ruházat
+Dzseki;50;15000;Téli ruházat
+Nadrág;100;8000;Hétköznapi viselet
+Esőkabát;75;5000;Esővédő ruházat
+Rövidnadrág;180;4500;Nyári ruházat
+Pulóver;90;6000;Hétköznapi viselet
+Tréningnadrág;110;5500;Sport ruházat
+Szandál;60;4000;Nyári ruházat
+Bakancs;40;20000;Téli ruházat
+Mellény;85;7000;Téli ruházat
+Ujjatlan felső;130;3000;Nyári ruházat
+Pizsama;75;4500;Hálószoba ruházat
+Bőrdzseki;20;30000;Kiegészítők
+Öltöny;15;50000;Formális ruházat
+Nyakkendő;150;2000;Kiegészítők
+Kalap;70;3500;Kiegészítők
+Kardigán;95;5500;Hétköznapi viselet
+Köpeny;45;8000;Speciális viselet
+Tornacipő;140;7500;Sport ruházat
+Szövetkabát;30;25000;Formális ruházat
+Rövid ujjú ing;160;3200;Nyári ruházat
+Hosszú ujjú póló;85;4000;Hétköznapi viselet
+Edzőcipő;120;8500;Sport ruházat
+Fürdőruha;100;3000;Nyári ruházat
+Téli sapka;110;1500;Téli ruházat
