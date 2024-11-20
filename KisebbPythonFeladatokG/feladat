@@ -1,0 +1,54 @@
+1. Könyvek gyűjtése
+Feladat:
+Hozz létre egy Konyvtar osztályt, amely képes könyvcímeket eltárolni és megjeleníteni.
+
+
+Kimenet:
+A könyvtárban található könyvek:
+- Egri csillagok
+- A kőszívű ember fiai
+
+Kiegészítés: Egészítsd ki az előző osztályt egy metódussal, amely visszaadja a címeket, ha azok "A" betűvel kezdődnek.
+
+
+2.Bevásárlólista
+eladat:
+Hozz létre egy Bevasarlolista osztályt, amelyben:
+
+Egy metódus elemeket ad a listához.
+Egy metódus eltávolít egy elemet.
+Egy metódus ellenőrzi, hogy egy elem szerepel-e a listában.
+
+A bevásárlólista tartalma: ['kenyér', 'tej', 'vaj']
+A bevásárlólista tartalma: ['kenyér', 'vaj']
+Van vaj a listában? True
+
+4.Pontszámok kezelése
+Feladat:
+Hozz létre egy Jatekos osztályt, amely egy játékos nevét és pontszámát tárolja.
+
+Egy metódus növelje a pontszámot.
+Egy másik metódus csökkentse azt, ha nincs negatív pont.
+Anna pontszáma: 10
+Anna pontszáma: 5
+Anna pontszáma nem lehet negatív!
+Anna pontszáma: 5
+
+
+5.Állatkert kezelése
+Feladat:
+Hozz létre egy Allatkert osztályt, amely:
+
+Állatok nevét tárolja.
+Egy metódus hozzáad egy állatot.
+Egy metódus kiírja, hány állat van.
+Egy metódus ellenőrzi, hogy egy adott állat megtalálható-e az állatkertben.
+
+Kimenet:
+
+Az állatkert lakói: ['oroszlán', 'elefánt', 'tigris']
+Állatok száma: 3
+Van tigris az állatkertben? True
+
+
+https://centroszet.hu/tananyag/lelkiegeszseg/4_a_konfliktus.html
