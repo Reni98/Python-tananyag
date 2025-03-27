@@ -1,0 +1,3 @@
+import myconnection
+
+myconnection.conn
