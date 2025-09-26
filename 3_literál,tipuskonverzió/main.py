@@ -6,7 +6,8 @@
 
 # "A literál nem más, mint a program szövegében direkt módon beleírt adat."
 
-# Ezeket a literálokat a programozás során konkrét értékként használjuk fel, és azok a program számára értelmezhetőek és használhatóak az adott adattípusukban. A literálok lényegében az adatok alapvető építőkövei, amelyekkel a program működik és dolgozik.
+# Ezeket a literálokat a programozás során konkrét értékként használjuk fel, és azok a program számára értelmezhetőek és használhatóak 
+#az adott adattípusukban. A literálok lényegében az adatok alapvető építőkövei, amelyekkel a program működik és dolgozik.
 
 #  A literál pedig egy konkrét adatot jelent, amit közvetlenül megadunk a kódban, és ami általában az inicializálás során szolgál kezdeti értékként.
 
@@ -25,9 +26,11 @@
 # Miért fontosak a literálok?
 # Konzisztencia és olvashatóság: A literálok használata segít abban, hogy egyértelmű legyen, hogy milyen típusú adatot kezelünk a kódban.
 
-# Pontosság: A literálok által közvetített adatok pontosak és megbízhatóak, mivel közvetlenül adjuk meg őket a kódban, nem függünk más változók értékeitől vagy kifejezések eredményeitől.
+# Pontosság: A literálok által közvetített adatok pontosak és megbízhatóak, mivel közvetlenül adjuk meg őket a kódban, 
+#nem függünk más változók értékeitől vagy kifejezések eredményeitől.
 
-# Teljesítmény: A literálok használata gyorsabb és hatékonyabb kódolást tesz lehetővé, mivel nincs szükség további kalkulációkra vagy hosszabbításokra az érték kinyerésére.
+# Teljesítmény: A literálok használata gyorsabb és hatékonyabb kódolást tesz lehetővé, mivel nincs szükség további kalkulációkra 
+#vagy hosszabbításokra az érték kinyerésére.
 
 # Példák
 # Ebben az esetben a szam változónak az értéke egy egész szám literál, amely 42.
@@ -49,7 +52,8 @@ print(igaz_e)  # Output: True
 #---------------------------------------------------------------------------------------------------------
 # Típuskonverzió
 
-# A típuskonverzió azt jelenti, hogy egy adott típusú adatot átalakítunk egy másik típusú adattá. Ez lehet automatikus vagy explicit módon történő átalakítás.
+# A típuskonverzió azt jelenti, hogy egy adott típusú adatot átalakítunk egy másik típusú adattá. 
+#Ez lehet automatikus vagy explicit módon történő átalakítás.
 
 # Automatikus típuskonverzió:
 
@@ -98,4 +102,5 @@ print(szam)   # Output: 42
 # Itt az int() függvény segítségével a szoveg változót karakterlánccá konvertáljuk, majd ezt az értéket egész számmá alakítjuk.
 
 # Összegzés
+
 # A típuskonverzió és típuskényszerítés kulcsfontosságú fogalmak a programozásban, amelyek segítségével kezelhetjük és manipulálhatjuk az adatok típusát és értékét aszerint, hogy milyen műveleteket szeretnénk végezni velük. Fontos megjegyezni, hogy a típuskonverzió automatikusan is megtörténhet bizonyos esetekben, míg a típuskényszerítés explicit módon történik.
