@@ -58,16 +58,11 @@ print(igaz_e)  # Output: True
 # Automatikus típuskonverzió:
 
 # Például egész számot és lebegőpontos számot adunk össze. Ebben az esetben az egész számot automatikusan lebegőpontos számmá konvertálja a Python.
-
-x = 10     # egész szám
-y = 3.5    # lebegőpontos szám
-
-eredmeny = x + y
-print(eredmeny)   # Output: 13.5
-
-# Itt az x változó (egész szám) értéke automatikusan lebegőpontos számmá konvertálódik a művelet végrehajtása során, hogy megfeleljen a műveleti követelményeknek.
-
-
+#Implicit típuskonverzió (implicit conversion, coercion) → amikor a Python automatikusan alakítja át az adat típusát, hogy a műveletnek legyen értelme.
+x = 10       # int
+y = 3.5      # float
+eredmeny = x + y   # Python az int-et float-tá konvertálja
+print(eredmeny)    # 13.5
 
 # Explicit típuskonverzió (cast):
 
@@ -104,3 +99,4 @@ print(szam)   # Output: 42
 # Összegzés
 
 # A típuskonverzió és típuskényszerítés kulcsfontosságú fogalmak a programozásban, amelyek segítségével kezelhetjük és manipulálhatjuk az adatok típusát és értékét aszerint, hogy milyen műveleteket szeretnénk végezni velük. Fontos megjegyezni, hogy a típuskonverzió automatikusan is megtörténhet bizonyos esetekben, míg a típuskényszerítés explicit módon történik.
+
